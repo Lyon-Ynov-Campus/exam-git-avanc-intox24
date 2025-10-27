@@ -5,7 +5,11 @@ Ce projet est un site web développé en Go qui affiche une page vide pour le mo
 
 ## Fonctionnalités
 
+<<<<<<< HEAD
 Le site affiche pour le moment une page vide. Deux fonctionnalités sera développée en parallèle, depuis la branche dev déjà existante.
+=======
+Le site affiche pour le moment une page vide. Une fonctionnalité sera développée en parallèle, depuis la branche dev déjà existante.
+>>>>>>> 3ee9f25f44ca40c471615b0f54878c77cf3d1d09
 
 ## Installation
 
