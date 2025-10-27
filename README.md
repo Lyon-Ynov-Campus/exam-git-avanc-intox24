@@ -32,5 +32,3 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
-
-Un changement qui sert à rien 
